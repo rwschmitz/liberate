@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>262516904515-lbb7k3jcuv84temi6j34jjshrg8vnroc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.262516904515-lbb7k3jcuv84temi6j34jjshrg8vnroc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDgTCI4dl_1QDdFDTukZWq5MIu95E44Lug</string>
+	<key>GCM_SENDER_ID</key>
+	<string>262516904515</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rudolphschmitz.liberate</string>
+	<key>PROJECT_ID</key>
+	<string>liberate-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>liberate-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:262516904515:ios:beefabc6adcea3f1</string>
+	<key>DATABASE_URL</key>
+	<string>https://liberate-app.firebaseio.com</string>
+</dict>
+</plist>
