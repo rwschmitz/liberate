@@ -22,6 +22,8 @@ The purpose of this app is:
 
 ## Notes
 
+- Using palette #9 from Refactoring UI
+
 ---
 
 ### Apple Store
@@ -50,6 +52,8 @@ The purpose of this app is:
 
 - If `RCTBundleURLProvider.h` file is not found, you may need to change your schemes.
   - [Steps to change schemes](https://stackoverflow.com/questions/40368211/rctbundleurlprovider-h-file-not-found-appdelegate-m/44039891#44039891)
+- If `The target … overrides the OTHER_LDFLAGS` build setting defined in `Pods/Pods.xcconfig`, you will need to edit your Build Settings
+  - [Stackoverflow 18376416](https://stackoverflow.com/questions/18376416/the-target-overrides-the-other-ldflags-build-setting-defined-in-pods-pods)
 
 ---
 

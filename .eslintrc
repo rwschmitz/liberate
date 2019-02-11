@@ -103,6 +103,7 @@
     ],
     "react/prefer-stateless-function": "off",
     "react/jsx-boolean-value": "off",
-    "react/jsx-curly-spacing": "off"
+    "react/jsx-curly-spacing": "off",
+    "react/jsx-one-expression-per-line": "off"
   }
 }
